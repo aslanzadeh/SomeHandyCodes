@@ -1,5 +1,5 @@
 // It needs c++14
-// It was learend by Jason Turner video:
+// I learend it by Jason Turner video:
 // https://www.youtube.com/watch?v=2kY-go52rNw
 
 #include <iostream>
